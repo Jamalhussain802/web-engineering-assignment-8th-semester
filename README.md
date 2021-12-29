@@ -10,7 +10,7 @@ In this assignemnt-based project, I have implemented a session based Todo and Bl
 - Only logged in users can post new blogs.
 - Read blog page is set public.
 
-Using given below credentials, one can post blog using local server, email me at <faisalkhanwaso1122@gmail.com> to get list of users of live server.
+Using given below credentials, one can post blog using local server, email me at <momehussain838@gmail.com> to get list of users of live server.
 
 ```php
     $users = array(
